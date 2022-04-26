@@ -24,7 +24,7 @@
     <ProjectGuid>{29fba8a3-7036-4dbe-9763-6e10880117a8}</ProjectGuid>
     <RootNamespace>LogsLeagueCleaner</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>CSXLogCleaner</ProjectName>
+    <ProjectName>LogCleaner</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
