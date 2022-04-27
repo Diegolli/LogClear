@@ -9,7 +9,7 @@ int main()
 {
 	system("color 07");
 
-	std::cout << R"(LogsClear By : Kovalski#9511                             
+	std::cout << R"(LogsClear                          
 )" << '\n';
 	std::cout << "Log Cleaner para League of Legends." << std::endl;
 	system("PAUSE");
